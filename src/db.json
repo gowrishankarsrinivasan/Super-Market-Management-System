@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Organic Apples",
+            "description": "Fresh organic apples, perfect for a healthy snack.",
+            "price": 2.99,
+            "category": "Fruits",
+            "brand": "EcoFruits",
+            "image": "src/assets/products/almondMilk.jpg",
+            "stock": 150,
+            "reorderPoint": 50,
+            "weight": "1kg",
+            "dimensions": {
+                "length": "10cm",
+                "width": "10cm",
+                "height": "10cm"
+            },
+            "sku": "FR001",
+            "barcode": "123456789001",
+            "dateAdded": "2024-08-01T12:00:00Z",
+            "tags": [
+                "organic",
+                "fruit"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Whole Wheat Bread",
+            "description": "Delicious whole wheat bread, high in fiber.",
+            "price": 3.49,
+            "category": "Bakery",
+            "brand": "HealthyBakery",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 200,
+            "reorderPoint": 50,
+            "weight": "500g",
+            "dimensions": {
+                "length": "20cm",
+                "width": "10cm",
+                "height": "5cm"
+            },
+            "sku": "BA001",
+            "barcode": "123456789002",
+            "dateAdded": "2024-08-02T12:00:00Z",
+            "tags": [
+                "bread",
+                "whole wheat"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Almond Milk",
+            "description": "Creamy almond milk, a great dairy alternative.",
+            "price": 2.79,
+            "category": "Dairy Alternatives",
+            "brand": "NutriMilk",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 100,
+            "reorderPoint": 50,
+            "weight": "1L",
+            "dimensions": {
+                "length": "10cm",
+                "width": "10cm",
+                "height": "25cm"
+            },
+            "sku": "DA001",
+            "barcode": "123456789003",
+            "dateAdded": "2024-08-03T12:00:00Z",
+            "tags": [
+                "milk",
+                "dairy-free"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Organic Chicken Breast",
+            "description": "Lean and tender organic chicken breast.",
+            "price": 9.99,
+            "category": "Meat",
+            "brand": "FarmFresh",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 75,
+            "reorderPoint": 90,
+            "weight": "500g",
+            "dimensions": {
+                "length": "15cm",
+                "width": "10cm",
+                "height": "5cm"
+            },
+            "sku": "ME001",
+            "barcode": "123456789004",
+            "dateAdded": "2024-08-04T12:00:00Z",
+            "tags": [
+                "chicken",
+                "organic"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Extra Virgin Olive Oil",
+            "description": "High-quality extra virgin olive oil for cooking and dressing.",
+            "price": 6.49,
+            "category": "Oils & Vinegars",
+            "brand": "PureOlive",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 10,
+            "reorderPoint": 50,
+            "weight": "500ml",
+            "dimensions": {
+                "length": "8cm",
+                "width": "8cm",
+                "height": "25cm"
+            },
+            "sku": "OI001",
+            "barcode": "123456789005",
+            "dateAdded": "2024-08-05T12:00:00Z",
+            "tags": [
+                "olive oil",
+                "cooking"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Granola Bars",
+            "description": "Healthy granola bars, perfect for a quick snack.",
+            "price": 4.99,
+            "category": "Snacks",
+            "brand": "SnackHealthy",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 250,
+            "reorderPoint": 50,
+            "weight": "200g",
+            "dimensions": {
+                "length": "15cm",
+                "width": "10cm",
+                "height": "5cm"
+            },
+            "sku": "SN001",
+            "barcode": "123456789006",
+            "dateAdded": "2024-08-06T12:00:00Z",
+            "tags": [
+                "snack",
+                "granola"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Canned Tomatoes",
+            "description": "Rich and flavorful canned tomatoes for cooking.",
+            "price": 1.99,
+            "category": "Canned Goods",
+            "brand": "TomatoPure",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 300,
+            "reorderPoint": 50,
+            "weight": "400g",
+            "dimensions": {
+                "length": "8cm",
+                "width": "8cm",
+                "height": "10cm"
+            },
+            "sku": "CG001",
+            "barcode": "123456789007",
+            "dateAdded": "2024-08-07T12:00:00Z",
+            "tags": [
+                "canned",
+                "tomatoes"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Greek Yogurt",
+            "description": "Thick and creamy Greek yogurt, high in protein.",
+            "price": 3.29,
+            "category": "Dairy",
+            "brand": "YogurtPlus",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 80,
+            "reorderPoint": 50,
+            "weight": "500g",
+            "dimensions": {
+                "length": "10cm",
+                "width": "10cm",
+                "height": "12cm"
+            },
+            "sku": "DA002",
+            "barcode": "123456789008",
+            "dateAdded": "2024-08-08T12:00:00Z",
+            "tags": [
+                "yogurt",
+                "Greek"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Whole Grain Pasta",
+            "description": "Nutritious whole grain pasta for a healthy meal.",
+            "price": 2.49,
+            "category": "Pasta & Grains",
+            "brand": "GrainHarvest",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 180,
+            "reorderPoint": 50,
+            "weight": "500g",
+            "dimensions": {
+                "length": "20cm",
+                "width": "10cm",
+                "height": "5cm"
+            },
+            "sku": "PA001",
+            "barcode": "123456789009",
+            "dateAdded": "2024-08-09T12:00:00Z",
+            "tags": [
+                "pasta",
+                "whole grain"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Green Tea",
+            "description": "Refreshing green tea with a light, crisp flavor.",
+            "price": 5.99,
+            "category": "Beverages",
+            "brand": "TeaTime",
+            "image": "https://via.placeholder.com/300x200",
+            "stock": 90,
+            "reorderPoint": 50,
+            "weight": "20 tea bags",
+            "dimensions": {
+                "length": "8cm",
+                "width": "8cm",
+                "height": "12cm"
+            },
+            "sku": "BE001",
+            "barcode": "123456789010",
+            "dateAdded": "2024-08-10T12:00:00Z",
+            "tags": [
+                "tea",
+                "beverage"
+            ]
+        }
+    ]
+}
