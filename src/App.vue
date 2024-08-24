@@ -5,8 +5,7 @@
       <v-container fluid>
         <router-view></router-view>
       </v-container>
-      <!-- Uncomment this line if you have a footer component -->
-      <!-- <FooterComponent /> -->
+
     </v-main>
   </v-app>
 </template>
