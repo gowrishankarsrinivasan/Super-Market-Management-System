@@ -7,6 +7,9 @@
                     <v-card-title>{{ product.name }}</v-card-title>
                     <v-card-subtitle>${{ product.price.toFixed(2) }}</v-card-subtitle>
                     <v-card-actions>
+
+
+
                         <v-btn color="primary">Add to Cart</v-btn>
                     </v-card-actions>
                 </v-card>
